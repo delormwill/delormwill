@@ -1,0 +1,5 @@
+- 👋 Hi, I’m WIll!
+- 👀 I’m interested in becoming a stronk Web Developer, one day achieving full-stack status! I climb rocks and play games and love living in the present.
+- 🌱 I’m currently learning front-end languages, sharpening my skills in HTML, CSS and JavaScript.
+- 💞️ I’m looking to collaborate on just about anything web-based! I've got lots to larn and am eager to dive in to any challenge that comes my way.
+- 📫 How to reach me: you can email me at willdelorm@gmail.com. I am also on LinkedIn https://www.linkedin.com/in/willdelorm/ and Twitter https://twitter.com/willdelorm.
