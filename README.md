@@ -1,5 +1,5 @@
 - 👋 Hi, I’m WIll!
-- 👀 I’m interested in becoming a stronk Web Developer, one day achieving full-stack status! I climb rocks and play games and love living in the present.
-- 🌱 I’m currently learning front-end languages, sharpening my skills in HTML, CSS and JavaScript.
-- 💞️ I’m looking to collaborate on just about anything web-based! I've got lots to larn and am eager to dive in to any challenge that comes my way.
+- 👀 I’m a friendly, neighborhood Web Developer, with a focus on front-end technologies! I climb rocks, play video games and cherish the present moment.
+- 🌱 My strengths are in front-end development: HTML, CSS (Bootstrap), and JavaScript (React). I am knowledgeable on back-end programming and can tackle the entire MERN stack.
+- 💞️ I’m looking to collaborate on just about anything web-based! I especially enjoy working on any sites or apps that will improve our users' lives.
 - 📫 How to reach me: https://willdelorm.com Email: willdelorm@gmail.com. LinkedIn https://www.linkedin.com/in/willdelorm/ Twitter https://twitter.com/willdelorm
